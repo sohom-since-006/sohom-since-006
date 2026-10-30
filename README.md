@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Sohom Paul 👋
 
-<!--
-**sohom-since-006/sohom-since-006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **CSE Student | Aspiring Developer | Creative Mind**
 
-Here are some ideas to get you started:
+I'm passionate about technology, development, and creativity. I love building projects, exploring new technologies, and turning ideas into reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Exploring Web & Full-Stack Development
+- 💻 Working with C, C++, Python & JavaScript
+- ⚡ Interested in IoT and innovative tech
+- 🚀 Learning, building & contributing to Open Source
+- 🎬 Also a freelance video editor & creative enthusiast
+
+### 🛠️ Tech Stack
+`C` `C++` `Python` `HTML` `CSS` `JavaScript`
+
+### 🎨 Beyond Code
+I also work on creative projects through **Clips Kinetics**, my video editing and creative portfolio.
+
+🔗 **[Explore Clips Kinetics](https://clipskinetics.vercel.app/)**
+
+---
+
+*Code with curiosity. Create with passion. Keep evolving.* 🚀
