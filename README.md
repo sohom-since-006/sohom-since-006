@@ -15,6 +15,7 @@ I'm passionate about technology, development, and creativity. I love building pr
 
 ### 🎨 Beyond Code
 I also work on creative projects through **Clips Kinetics**, my video editing and creative portfolio.
+Yes i am a Freelancer Video editor
 
 🔗 **[Explore Clips Kinetics](https://clipskinetics.vercel.app/)**
 
