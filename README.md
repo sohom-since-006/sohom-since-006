@@ -1,7 +1,7 @@
 ```html
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" alt="Waving Hand" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="300" alt="Hi Animation" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Greetings/hi.gif" width="300" alt="Hi Animation" />
 </p>
 
 # Hey, I'm Sohom Paul 👋
@@ -78,6 +78,8 @@ Yes, I am a Freelance Video Editor.
 
 *Code with curiosity. Create with passion. Keep evolving.* 🚀
 
-```[cite: 1]
+```
+
+Copy this updated block, paste it into your profile README, and hit save. All your animations will now load correctly!
 
 ```
