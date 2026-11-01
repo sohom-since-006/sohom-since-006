@@ -7,7 +7,8 @@
 
 💻 **CSE Student | Aspiring Developer | Creative Mind**
 
-I'm passionate about technology, development, and creativity. I love building projects, exploring new technologies, and turning ideas into reality.
+I'm passionate about technology, development, and creativity.
+I love building projects, exploring new technologies, and turning ideas into reality.
 
 <table>
   <tr>
