@@ -52,20 +52,6 @@ CREATIVE_ENGINE      = ACTIVE
 - 🤖 **Python & AI Computer Vision** `[██████░░░░]` **65%** *(OpenCV, Expert Systems)*
 - 🎬 **Video Editing & Motion Graphics** `[██████████]` **99%** *(Clips Kinetics)*
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-| Domain | Stack & Technologies |
-| :--- | :--- |
-| **Languages** | `C` `C++` `Python` `JavaScript` `TypeScript` `HTML5` `CSS3` `SQL` |
-| **Frontend & Web** | `Next.js` `React` `Tailwind CSS` `Vite` |
-| **Backend & Cloud** | `Node.js` `Supabase` `PostgreSQL` `REST APIs` `Vercel` |
-| **Tools & Creative** | `Git` `GitHub` `VS Code` `Postman` `CapCut PC Pro` |
-
-</div>
 
 ---
 
