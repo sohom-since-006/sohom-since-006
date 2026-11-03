@@ -29,7 +29,7 @@ ROLE:           Full-Stack & Systems Engineer
 ACADEMICS:      B.Tech in CSE @ Asansol Engineering College (2025–2029)
 CREATIVE ARM:   Clips Kinetics (Founder & Video Editor)
 DIRECTIVE:      "Bridging low-level system logic, modern web architecture, and cinematic media."
-BUT WHERE?:       [86.9833° E, 23.6833° N]
+BUT WHERE?:     [86.9833° E, 23.6833° N]
 ```
 
 ```ini
