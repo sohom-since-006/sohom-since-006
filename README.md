@@ -27,18 +27,19 @@ OPERATOR:       Sohom Paul
 CALLSIGN:       Sohom ❤️
 ROLE:           Full-Stack & Systems Engineer
 ACADEMICS:      B.Tech in CSE @ Asansol Engineering College (2025–2029)
-LOCATION:       West Bengal, India [86.9833° E, 23.6833° N]
 CREATIVE ARM:   Clips Kinetics (Founder & Video Editor)
 DIRECTIVE:      "Bridging low-level system logic, modern web architecture, and cinematic media."
+BUT WHERE?:       [86.9833° E, 23.6833° N]
 ```
 
 ```ini
-[RUNTIME_TELEMETRY]
-SYSTEM_STATUS   = ONLINE (99.9% UPTIME)
-LOW_LEVEL_CORE  = C / C++ / PYTHON
-WEB_FRAMEWORK   = NEXT.JS / REACT / NODE
-DATABASE_STACK  = POSTGRESQL / SUPABASE
-CREATIVE_ENGINE = ACTIVE (CAPCUT PC / MOTION DESIGN)
+[RUNTIME_STATUS]
+UPTIME               = 99.9%
+SYSTEM_LOAD          = OPTIMAL
+FRAMEWORK            = NEXT.JS
+DEPLOY_STATUS        = UNSTABLE
+CREATIVE_ENGINE      = ACTIVE
+
 ```
 
 ---
@@ -78,6 +79,48 @@ CREATIVE_ENGINE = ACTIVE (CAPCUT PC / MOTION DESIGN)
 | **[Khabar Chakra](https://github.com/sohom-since-006/khabar-chakra)** | `Web` `Realtime DB` | Community-driven food redistribution platform connecting donors with NGOs. |
 | **[JSON Formatter](https://github.com/sohom-since-006/json-formatter)** | `Vanilla JS` `CSS` | Fast, clean JSON parser and collapsible tree validator with dark/light themes. |
 | **[LeetCode & C/C++ Systems](https://github.com/sohom-since-006/LeetCode)** | `C` `C++` `DSA` | Core data structures, pointer mechanics, and algorithmic solutions. |
+
+---
+
+## 🛠️ The Tech Arsenal
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### 🌐 Frontend & Web Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+### 🗄️ Backend, Databases & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+### ⚙️ Developer Tools & Creative Media
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Video_Editing-CapCut%20PC-000000?style=for-the-badge&logo=film&logoColor=white" alt="Video Editing" />
+</p>
 
 ---
 
